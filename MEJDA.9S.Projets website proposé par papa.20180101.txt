@@ -1,0 +1,63 @@
+I. Un website pour :
+	présenter Fellousse, 
+	ses parents, sa naissasnce,
+	son nid, 
+	ses frères et ses soeurs, 
+et sa généalogie,
+	 son enfance,
+	 apprentissage,
+	 la jeunsesse,
+	 ses voyages,
+	 ses aventures,
+	 son mariage,
+	 sa décendance,	
+ 	ses signatures (taintis)
+	sa mentalité
+	son affection
+	son intelligence très élevé
+II.Lorina aura accés à ce site,
+	 ses parents,
+ 	ses classes,
+ 	liker,
+	 proposition d'idée,
+	 poser des questions,
+	 demander des nouvelles du Fellousse,
+	 billets pour le regarder dans un zoo,
+	 s'abonner(avec un log in : avoir un nom et un mot de passe)
+	suivre Fellousse sur Google Maps
+
+
+
+
+III.Mejda : 
+	I./elle """"veut"""" créer le site
+	l'améliorer quand elle le veut
+	le maintenir
+	le publier
+
+	II./ ce qu'elle a besoin
+		apprendre HTML ?
+		apprendre CSS on GRID ?
+		apprendre JAVASCRIPT = JS ?
+		apprendre AJAX ?
+		apprendre JISON ?
+
+
+IV. Mejda doit maîtriser : L.A.M.P.
+	L : Linux
+	A : Apache
+	M : my SQL
+	P : PHP
+	P : Python
+	P :Perle6
+	P :Pupet
+V. Maîtriser Vm D.
+Vm : Virtual Machines
+D :Docker
+
+VI: Maîtriser les outils pour rendre possible la création du website
+l'envie (-1000000000000%)
+Notepad++
+IDE
+Eclips
+Atom
