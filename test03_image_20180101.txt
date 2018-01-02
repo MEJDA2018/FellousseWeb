@@ -1,0 +1,12 @@
+<html>
+
+<head>
+<title>How To Insert an Image</title>
+</head>
+
+<body>
+
+<img src="images/funny-dog.jpg" alt="A funny dog"  />
+
+</body>
+</html>
